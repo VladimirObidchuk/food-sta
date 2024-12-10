@@ -1,0 +1,54 @@
+.btn {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 1.5;
+  text-align: right;
+  color: #2c2c2c;
+}
+.order-green {
+  border-radius: 30px;
+  padding: 6px 17px;
+  min-width: 98px;
+  height: 32px;
+  background-color: #bbf330;
+  border: none;
+  text-align: center;
+}
+.order-green:hover,
+.order-green:focus {
+  background-color: #b5ff00;
+}
+.order {
+  border: 2px solid #7eb101;
+  border-radius: 30px;
+  padding: 10px 20px;
+  min-width: 106px;
+  height: 40px;
+  background-color: #fff;
+}
+.order:hover,
+.order:focus {
+  border: 2px solid #597d00;
+}
+.btn-subscribe {
+  border-radius: 30px;
+  padding: 10px 20px;
+  min-width: 103px;
+  height: 42px;
+}
+.subscribe-green {
+  border: none;
+  background-color: #bbf330;
+}
+.subscribe-green:hover,
+.subscribe-green:focus {
+  background-color: #b5ff00;
+}
+.subscribe-btn {
+  border: 0.85px solid #7eb101;
+  background-color: #fff;
+}
+.subscribe-btn:hover,
+.subscribe-btn:focus {
+  background-color: #ffe550;
+}
